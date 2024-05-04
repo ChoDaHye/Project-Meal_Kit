@@ -140,7 +140,7 @@
 <br><br>
 
 ## 🔧 아키텍처
-![image](https://github.com/heyJSH/Project-Meal_Kit/assets/151722511/b37e95d8-3e71-4fef-b360-057ea6842ef2)
+![image](https://github.com/heyJSH/Project-Meal_Kit/assets/151722511/c95a5896-9d37-44d8-a89f-034644dfeea4)
 <br><br>
 
 ## 🏗️ ERD
