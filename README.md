@@ -140,9 +140,7 @@
 <br><br>
 
 ## 🔧 아키텍처
-#### 수정필요!!!!!!!!!!!!!!
-그림 첨부 필요. 예시는 아래와 같다.<br>
-![image](https://github.com/heyJSH/Project-Meal_Kit_SpringBoot/assets/150403977/41d35377-005b-49ff-8df4-5669487e3ba3)
+![image](https://github.com/heyJSH/Project-Meal_Kit/assets/151722511/b37e95d8-3e71-4fef-b360-057ea6842ef2)
 <br><br>
 
 ## 🏗️ ERD
