@@ -1,4 +1,4 @@
-# 스프링부트를 이용한, 밀키트 제조업체를 위한 웹 솔루션 개발
+# JSP를 이용한, 밀키트 제조업체를 위한 웹 솔루션 개발
 
 ## 📌 목차
 1. [🖥️ 프로젝트 개요](#-프로젝트-개요)
@@ -22,7 +22,7 @@
 ### ⚙️ 개발환경 및 도구
   - `JAVA 17`
   - `JDK 17.0.2`
-  - **IDE**: IntelliJ
+  - **IDE**: STS4
   - **Framework**: Springboot(3.1.10)
   - **DataBase**: Oracle DB(ojdbc8)
   - **ORM**: Mybatis
