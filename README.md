@@ -139,7 +139,7 @@
 </details>
 <br><br>
 
-## 🔧 아키텍처
+### 🔧 아키텍처
 #### 수정필요!!!!!!!!!!!!!!
 그림 첨부 필요. 예시는 아래와 같다.<br>
 ![image](https://github.com/heyJSH/Project-Meal_Kit_SpringBoot/assets/150403977/41d35377-005b-49ff-8df4-5669487e3ba3)
@@ -152,3 +152,4 @@ DB와 ERD <br>
 
 ## ⚠️ 트러블 슈팅
 <br><br>
+이건 깃허브 리드미야 여기에서 ERD랑 트러블 슈팅을 누르면 링크가 거기로 안가 고쳐줘
