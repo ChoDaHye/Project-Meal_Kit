@@ -10,7 +10,6 @@
 4. [🏗️ ERD](#-ERD)
 5. [⚠️ 트러블 슈팅](#-트러블-슈팅)
 6. [📽️ 작동 영상](#-작동-영상)
-
    <br><br>
 
 ## 🖥️ 프로젝트 개요
@@ -181,3 +180,4 @@ DB와 ERD <br>
 
 ## 📽️ 작동 영상
 [[📹 작동 영상]](https://drive.google.com/file/d/12LwcEgv2JtFC25zAbUwQ4FCezuiNiI1k/view?usp=sharing)
+<br><br>
