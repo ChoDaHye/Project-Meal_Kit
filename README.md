@@ -189,7 +189,7 @@ DB와 ERD <br>
       <h3>해결방안</h3>
       <b>예외 처리를 추가</b>
       <b>equalsIgnoreCase 메소드를 사용해 대소문자 오류 제거</b>
-      ![image](https://github.com/jihyeon00/CNR_FURNITURE/assets/151722511/b027ee4b-cf63-487f-932a-363abac83f18)
+       <img src="https://github.com/jihyeon00/CNR_FURNITURE/assets/151722511/b027ee4b-cf63-487f-932a-363abac83f18" >
    </div>
 </details>
 
