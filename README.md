@@ -176,7 +176,22 @@ DB와 ERD <br>
 <br><br>
 
 ## ⚠️ 트러블 슈팅
-<br><br>
+<details>
+   <summary>트러블슈팅</b> (👈 Click)</summary>
+   <br>
+   <div markdown="1">
+      <h3>문제점</h3>
+      <b>부서 접근 제한 로직의 오류</b>
+      <ul>
+         <li>페이지에서는 세션에 저장된 depNm 값을 확인하여 특정 부서("관리부")만 접근 가능하도록 제한하는 로직이 있음에도 불구하고, 코드상에서 오류가 발생할 수 있는 부분이 존재한다.</li>
+      </ul>
+      <br>
+      <h3>해결방안</h3>
+      <b>예외 처리를 추가</b>
+      <b>equalsIgnoreCase 메소드를 사용해 대소문자 오류 제거</b>
+      ![image](https://github.com/jihyeon00/CNR_FURNITURE/assets/151722511/b027ee4b-cf63-487f-932a-363abac83f18)
+   </div>
+</details>
 
 ## 📽️ 작동 영상
 [[📹 작동 영상]](https://drive.google.com/file/d/12LwcEgv2JtFC25zAbUwQ4FCezuiNiI1k/view?usp=sharing)
