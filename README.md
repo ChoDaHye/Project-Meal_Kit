@@ -192,6 +192,7 @@ DB와 ERD <br>
        <img src="https://github.com/jihyeon00/CNR_FURNITURE/assets/151722511/b027ee4b-cf63-487f-932a-363abac83f18" >
    </div>
 </details>
+<br><br>
 
 ## 📽️ 작동 영상
 [[📹 작동 영상]](https://drive.google.com/file/d/12LwcEgv2JtFC25zAbUwQ4FCezuiNiI1k/view?usp=sharing)
